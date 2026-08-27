@@ -115,7 +115,7 @@ O resultado das análises foi utilizado para construir um dashboard no Power BI,
 
 ### Dashboard
 
-![Dashboard Sakila Business Intelligence](Imagens/dashboard.png)
+![Dashboard Sakila Business Intelligence](imagens/dashboard.png)
 
 ---
 
